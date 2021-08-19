@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "707079116343",
+    "project_id": "quiz-app-e5b4f",
+    "storage_bucket": "quiz-app-e5b4f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:707079116343:android:80af728f8b817fba4891b2",
+        "android_client_info": {
+          "package_name": "com.fbad.colin_quiz_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "707079116343-bqecoqnnnd5tq2nmg9kqdg6hstuqin1r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUf8Z-rZ7PK9H_3OAHefjQT5ouZ5ZoRmQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "707079116343-bqecoqnnnd5tq2nmg9kqdg6hstuqin1r.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "707079116343-bhovv6or481m2cs1dsrvd2l1t0s6chti.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.fbad.QuizApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
